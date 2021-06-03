@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of a great and bloudy battell fought the 23 of October old stile being the same day, upon which was fought the battell betwixt the King and the Lord Generall Earle of Essex neare Kynton, betwixt the emperours army and the command of his brother Arch-Duke Leopold William and Generall Piccolomini on one side, and the Swedish army under the command of Generall Torstensohn on the other side : being the copie sent by the Swedish general Major Coningsmarck from the campe before Leipzik, the 24 of October old stile, to the Count of Elerstein lieutenant generall of the landgrave of Heffens forces.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63435</idno><idno type="EEBO-CITATION">12411651</idno>
+  <idno type="VID">61547</idno>
+  <idno type="EEBO-PROQUEST">2248562614</idno>
+  
+            <idno type="STC">Wing T2539</idno>
+            <idno type="STC">ESTC R2235</idno>
+            <idno type="OCLC">12411651</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E127, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of a great and bloudy battell fought the 23 of October old stile being the same day, upon which was fought the battell betwixt the King and the Lord Generall Earle of Essex neare Kynton, betwixt the emperours army and the command of his brother Arch-Duke Leopold William and Generall Piccolomini on one side, and the Swedish army under the command of Generall Torstensohn on the other side : being the copie sent by the Swedish general Major Coningsmarck from the campe before Leipzik, the 24 of October old stile, to the Count of Elerstein lieutenant generall of the landgrave of Heffens forces.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Kőnigsmarck, Hans Christoff, 1605-1663.</term>
+               <term type="personal_name">Leopold Wilhelm, --  Archduke of Austria, 1614-1662.</term>
+               <term type="personal_name">Piccolomini, Ottavio, 1599-1656.</term>
+               <term type="personal_name">Torstenson, Lennart, --  greve av Ortala, 1603-1651.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="accounts">
+            <pb facs="tcp:61547:1"/>
+            <pb n="1" facs="tcp:61547:1"/>
+            <head>A True and perfect Relation of a great and bloudy Battell fought the 23. of <hi>October</hi> old stile (being the same day, upon which was fought the Battell betwixt the King and the Lord Generall Earle of <hi>Essex</hi> neare <hi>Kynton</hi>) betwixt the Emperours Army under the com<g ref="char:EOLhyphen"/>mand of his Brother Arch-Duke <hi>Leopold William</hi> and Generall <hi>Piccolomini</hi> on one side, and the <hi>Swedish</hi> Army under the command of Generall <hi>Torstensohn</hi> on the other side.</head>
+            <div type="account">
+               <head>Being the Copie sent by the <hi>Swedish</hi> General Major <hi>Conings<g ref="char:EOLhyphen"/>marck</hi> from the Campe before <hi>Leipzik,</hi> the 24. of <hi>October</hi> old stile, to the Count of <hi>Eberstein</hi> Lieutenant Generall of the Landgrave of <hi>Hessens</hi> Forces.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Y the assistance of God Almighty we have obtained ye<g ref="char:EOLhyphen"/>sterday a great and glorious Victory over our Enemy, as your Lordship may plainely see in this following Re<g ref="char:EOLhyphen"/>lation. His Excellence the Lord Generall <hi>Leonard Tor<g ref="char:EOLhyphen"/>stensohn,</hi> after that he had left the Countrey of <hi>Silesia,</hi> turned with his Army toward the River of <hi>Elve,</hi> and the 16/26 of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> passed over the said River, and tooke his Quarter at <hi>Eylenburg:</hi> Being now the Enemy followed with his whole Army, wherefore his Excellencie sent for me to come unto him to <hi>Eylenburg</hi> with my Forces, which I presently put in execution, and joyned with him the 20.30. of <hi>October.</hi> The same day by the fierce shooting with our Canons, a great peece of the City wall neare the Cloyster of Saint <hi>Paul</hi> was battered downe, whereupon also presently an assault was given, but without effect, because the breach that was shot, was too high in the wall, and in the assault we lost about a hundred soul<g ref="char:EOLhyphen"/>diers, and some officers. The Imperialists, which could plainely
+<pb n="2" facs="tcp:61547:2"/>heare the roaring of our Canons, tooke occasion to succour and re<g ref="char:EOLhyphen"/>lieve the City, and to set forward their March, advanced the 21. of <hi>October</hi> within halfe a <hi>Dutch</hi> mile neare unto our Army, and stood all that night in Battalia. Whereupon his Excellencie the Lord Ge<g ref="char:EOLhyphen"/>nerall <hi>Torstensohn</hi> went with his whole Cavallery to meete the Im<g ref="char:EOLhyphen"/>perialists by the way to hinder all inconveniences and assaults, or to give himselfe an assault upon the Imperiall Army, yet the same night nothing passed betwixt both Armies. The 22. of <hi>October</hi> earely be<g ref="char:EOLhyphen"/>fore day-light his Excellencie came backe with the Cavallery draw<g ref="char:EOLhyphen"/>ing together the Infantry and Baggage, and thus appeared before his Enemies face, who presented himselfe no lesse, onely the passage was somewhat inconvenient and troublesome unto us, and we enter<g ref="char:EOLhyphen"/>tained but small skirmishes with the <hi>Hungarians</hi> and <hi>Croats,</hi> wherfore his Excellencie marched over the passage directly into the Enemies face, but that day nothing was done of any consequence. The same night to hinder and prevent all assaults, we made divers false Alarums to the Enemy, and stood all night long with our Army in Battalia, till the cleare Sun-shine broke forth, being Sunday the 23. of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> and the day was so cleare, that both we and the Enemy had a great minde to fight, and to give him herein content and satisfacti<g ref="char:EOLhyphen"/>on, after that we had devoutly called upon God Almighty for his assistance, we tooke the worke in hand with a good resolution; and after that both Armies were come to a stand upon the same place, where a 11 years agoe the King of <hi>Sweden, Gust. Adolphus</hi> of glorious memory, obtained the great victory against the Imperiall Generall <hi>Tilly</hi> (which is worthy observing) we fell in Gods name upon the Enemy, and on both sides there was fought so furiously and stoutly, that it was wonderfull to see how the Regiments stood one against the other, and none would yeeld in the least way to each other, til at last the Enemies Left-wing flew a little off, and prepared for a flight, but they were presently brought againe to a stand: In the assaulting of the Enemies right Wing we had so good successe, that after three hours valiant fight the same was forced <hi>nolens volens</hi> to leave the field, and to kisse with their heads the ground. The Enemies left Wing was pursued by his Excellencie as farre as <hi>Leipzigk,</hi> and the right Wing by my Troups as farre as <hi>Eylenburg,</hi> those that were o<g ref="char:EOLhyphen"/>vertaken in the chase and pursuite, were dealt withall according to the custome of Warre, and put to the sword. For this Victory open thanksgivings were made unto God Almighty by our whole Army. The Enemies Army besides the <hi>Hungarians</hi> and <hi>Croats,</hi> consisted of
+<pb n="3" facs="tcp:61547:2"/>sixty strong Squadrons of horse, and eleven Brigads of foot, amongst which were foure <hi>Saxon</hi> Regiments of horse, and of the Electours owne commanded Troupes, two Regiments of horse more, one Re<g ref="char:EOLhyphen"/>giment of Dragooners, and five hundred Musqueteers. The Ene<g ref="char:EOLhyphen"/>mies Infantry is totally fallen into our hands, insomuch that few or none thereof escaped; which craving Quarter upon their knees, were spared and saved alive. In the beginning of the Battell our In<g ref="char:EOLhyphen"/>fantery had likewise some considerable losse: amongst the Prisoners we tooke, is the Generall of the Artillery Count of <hi>Soye,</hi> together with divers other Commanders and Officers, and many great Com<g ref="char:EOLhyphen"/>manders also were slaine upon the place; of the Prisoners we have as yet no List: On our side we had likewise a considerable losse, be<g ref="char:EOLhyphen"/>cause many brave Commanders and Officers were slaine upon the place, for the losse whereof we are sorry, especially for Generall Ma<g ref="char:EOLhyphen"/>jor <hi>Lilly Hoeck,</hi> Generall Major <hi>Slangh,</hi> Colonell <hi>Shliebe,</hi> the young <hi>Bannier, Bibo,</hi> and others, Generall Major <hi>Stollhans</hi> was wounded, but not dangerously. The Enemies whole Artillery consisting of forty eight peeces of Ordnance, together with all their furniture, is fallen into our hands; as also all their Colours and many Stan<g ref="char:EOLhyphen"/>dards, which are about in our Campe for a triumph in the sight of the people: the Enemies Cavallery suffered likewise very much. On our side we had the word, <hi>Helpe Lord Jesu,</hi> who hath likewise beene our helper; the Enemies word was <hi>Sancta Maria.</hi> In great haste the 24. of <hi>October,</hi> the third of <hi>November</hi> 1642.</p>
+               <p>In the beginning of the fight his Exellencies horse was killed with a shot under him, which Bullet hit afterwards Colonell <hi>Grube,</hi> that he died presently, <hi>Leipzigk</hi> must now stand to our mercie.</p>
+               <p>The confirmation of this great Victory appeares by severall other Letters here following.</p>
+            </div>
+            <div type="account">
+               <head>From the <hi>Swedish</hi> Quarter before <hi>Leipzigk,</hi> the <hi>25.</hi> of October, the fourth of November.</head>
+               <p>THe 20.30. of <hi>October,</hi> by the fierce shooting with our Canons, a breach was shot into the City wall neare the Cloyster of Saint <hi>Paul,</hi> and presently thereupon an assault was given, but we had a repulse with the losse of a hundred Souldiers and some Officers; but being the Imperialists approached to succour and relieve the City, his Excellencie Generall <hi>Torstensohn</hi> put himselfe in open Bat<g ref="char:EOLhyphen"/>talia
+<pb n="4" facs="tcp:61547:3"/>against them the 22. of <hi>October;</hi> the next day following, being the 23. of <hi>October</hi> the fight begunne, in so much that with great fury the Imperiall left Wing was dispersed, the <hi>Swedish</hi> left Wing fell likewise somewhat short, but was presently brought againe to a stand; in the second assault the fight was furiously continued for three houres long, yet at last the Imperialists were forced to leave the field: his Excellencie Generall <hi>Torstensohn</hi> pursued after the Imperials left Wing on this side of <hi>Leipzigk,</hi> and Generall Major <hi>Coningsmarck</hi> with his Troopes after the right Wing as farre as <hi>Eylenburg;</hi> the Im<g ref="char:EOLhyphen"/>periall Army consisted in Cavallery besides the <hi>Hungarians</hi> and <hi>Croats</hi> of sixty strong Squadrons and eleven Brigads of foote, a<g ref="char:EOLhyphen"/>mongst which were seven Regiments of horse, and five hundred Musqueteers of the Duke of <hi>Saxonies</hi> Forces; the whole Imperiall Infantery is fallen into the hands of the <hi>Swedes,</hi> and most of them by craving Quarter, were saved alive, whereby the losse of the <hi>Swe<g ref="char:EOLhyphen"/>dist</hi> Souldiers was reasonably well repaired: of the Imperiall high Officers were taken prisoners the Generall of the Artillery Count of <hi>Soye</hi> and <hi>Fernament,</hi> together with divers other Colonels and Officers; many of them also were slaine upon the place, as also on the <hi>Swedish</hi> side many brave Commanders, amongst which are Generall Major <hi>Lilly Hoeck,</hi> Generall Major <hi>Slangh,</hi> Colonell <hi>Grube,</hi> young <hi>Bannier,</hi> Colonell <hi>Bibo, Shliebe,</hi> and others, Generall Major <hi>Stollhans</hi> is woun<g ref="char:EOLhyphen"/>ded; and the <hi>Swedes</hi> have obtained forty eight faire brasse Peeces of Ordnance, together with all the furniture, all their foote Colours, and many Standards, together with all their Baggage, and about eight thousand Wagons and Carts.</p>
+            </div>
+            <div type="account">
+               <head>An Extract of another Letter from <hi>Naumburg</hi> the <hi>26.</hi> of October from <hi>Er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> the <hi>28:</hi> and <hi>Jena</hi> the <hi>29.</hi> old sti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</head>
+               <p>THe great overthrow of the imperiall Army near <hi>Leipzigk</hi> is con<g ref="char:EOLhyphen"/>firmed, the disorder of the Imperialists came by that meanes, because the <hi>Swedish</hi> Generall <hi>Torstensohn</hi> played with his Artillery crosse way into the Imperiall Battalia, and thereby put their left Wing so soone to flight, whereupon the remainder of the Army, especially the horsemen betooke themselves to their heeles, tooke their retreat towards <hi>Gera, Zwickaw,</hi> and <hi>Eyra,</hi> Arch-Duke <hi>Leopold</hi> himselfe in person came but with sixteene horses through <hi>Altenburg</hi> to <hi>Egra.</hi> The <hi>Swedes</hi> have not beene above 15000. strong, but the
+<pb n="5" facs="tcp:61547:3"/>Imperiall Army consisted of 23000. Horse and 7000. Foote, they fought on both sides like Lions, yet at last the Imperialists were forced to leave the Field, and all their Infantry, together with 48. peeces of Ordnance, all their Ammunition, Baggage, Writings, Plate, all Foote Colours and many Standards fell into the hands of the <hi>Swedes,</hi> insomuch that the old Imperiall Regiments of Foot were totally ruinated within the space of three houres; The hono<g ref="char:EOLhyphen"/>rable <hi>Austrian</hi> Ladies were driven together like Sheepe: On the Im<g ref="char:EOLhyphen"/>periall side were wounded Colonell <hi>Palavizin,</hi> Colonell <hi>Muslein,</hi> Colonell <hi>Wintz, Belleshin, Staal,</hi> and <hi>Gonzago,</hi> the Count of <hi>Sayes</hi> Generall of the Artillery is taken prisoner.</p>
+               <p>These following Imperiall Colonels were slaine upon the place, as namely Colonell <hi>Nicolai,</hi> Colonell <hi>Heuster,</hi> Colonell <hi>Munster,</hi> Colonell <hi>Craft,</hi> Colonell <hi>Colnith,</hi> Colonell Count <hi>Petau,</hi> Colonell <hi>Rauft,</hi> Baron <hi>de Soy,</hi> Colonell <hi>Baumgart,</hi> Colonell <hi>Pompey,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Vorhawer,</hi> three Sergeant Majors, three Lieutenant Colonels, many Captaines and other Officers, and above 5000. Common Souldiers. On the <hi>Swedes</hi> side were slaine Generall Major <hi>Lilly Hoeck, Slangh, Shliebe, Bibo, Grubbe, Slein, Hocking,</hi> young <hi>Bannier,</hi> and others. Arch-Duke <hi>Leopold William,</hi> Generall <hi>Piccolomini,</hi> Count <hi>Broy,</hi> Count <hi>Bucheimb,</hi> and others are now at <hi>Rackonith</hi> in <hi>Bohemia,</hi> to re<g ref="char:EOLhyphen"/>collect some of their scatered Cavallery. In the Battaile Generall <hi>Torstensohn</hi> had a piece of his fur'd Coate shot away, which after<g ref="char:EOLhyphen"/>wards was found in the field, 122. Foot Colours, and some 70. Standards are already delivered in to the said Generall <hi>Torstensohn.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>An Extract of another Letter from Bremen the <hi>3/13</hi> of Nov.</head>
+               <p>FRom divers places, as namely from <hi>Maydeburge, Hildesheim, Bruaswicke,</hi> and <hi>Halberstett,</hi> we have received the confirmation of the overthrow, which the <hi>Swedes</hi> have given to Arch-Duke <hi>Leopold William,</hi> the fight continued above five houres long, and for three houres long the fight stood very doubtfull to whose side the victory would fall, because both parties fought very stoutly hand to hand, and pulled the Pikes out of one anothers hand; Generall <hi>Torstensohn</hi> having left for a reserve foure Regiments of Horse, came up in per<g ref="char:EOLhyphen"/>son pressing upon the battalia, brought the whole imperiall Army in disorder, and put the same to flight. Those of <hi>Erford</hi> advertise, that above 5000. of the Imperialists are slaine upon the place; in all
+<pb n="6" facs="tcp:61547:4"/>the battailes since the beginning of the Warre in <hi>Germany,</hi> not so many brave Commanders have beene slaine at once, as there hath beene in this Battaile, the Regiments stood on both sides like walls one against the other. The <hi>Swedes</hi> have taken prisoners about 8000. Imperiall Souldiers, obtained about 8000. Waggons and Carts, and all the Imperiall Baggage and Ammunition. Upon this Victo<g ref="char:EOLhyphen"/>ry, Generall <hi>Torstensohn</hi> assaulted againe very furiously the City of <hi>Leipzigk</hi> and summoned the same to yeeld upon discretion: unto whom the Magistrates sent this answer, that they beleeved His Ex<g ref="char:EOLhyphen"/>cellency was more discreet, then that he would put them to such ex<g ref="char:EOLhyphen"/>tremities, being confident of his meekenesse, and assuring themselves that he would receive the Inhabitants into his favour, being resol<g ref="char:EOLhyphen"/>ved to open unto him the gates; which they presently did, suffering his Excellency to enter into the Towne, with as many men as he pleased: who presently caused to be proclaimed by the beating of the Drumme, and sounding of the Trumpet, that none upon paine of death should undertake to hurt any Citizen, either in his body or goods; which to the admiration of all men was observed so strict<g ref="char:EOLhyphen"/>ly, that not one man was plundered, onely the Magistrates are to pay for pillaging 32000. Rixdallers, which summe shall be divided amongst his Souldiers. Generall Major <hi>Coningsmarck</hi> with the A<g ref="char:EOLhyphen"/>vantguard of the <hi>Swedish</hi> Army, is entred already into <hi>Bohemia,</hi> ta<g ref="char:EOLhyphen"/>king his way directly towards <hi>Prague.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Frankeford, Novemb.</hi> 3. 1642.</head>
+               <p>THe <hi>Swedish</hi> Field Marshall <hi>Torstensohn,</hi> having left <hi>Silesia,</hi> with his maine Army tooke his March towards <hi>Ilenbergh</hi> which he past the 16. The Enemy following him with his whole Army, His Excellency called <hi>Kennexmarke</hi> to joyne with him, which was effected the 20. day. On which day <hi>Leipzigk</hi> had a great part of the wall beaten downe by the Cannon; whereupon at full day an as<g ref="char:EOLhyphen"/>sault was given, but without effect; the wall being yet too high, and they lost about a 100. Souldiers besides Commanders.</p>
+               <p>Now the Enemy having heard the Cannon play, tooke hereby an occasion to raise the siege and to march on towards <hi>Leipzigke,</hi> advancing towards us upon the 21. day, within halfe a mile of us, and there stood in battaile Array all night; our Field Marshall going to meete him with all the Cavallery, either to prevent their onset,
+<pb n="7" facs="tcp:61547:4"/>or to fall upon his Campe, yet nothing was attempted that night.</p>
+               <p>Now on the 22. day, His Excellency retreated againe with the Cavallery, drawing the Infantry and Baggage nearer unto him, and caused the same to march before, standing himselfe with the In<g ref="char:EOLhyphen"/>fantry and Artillery, in a well formed Battalia in sight of the Ene<g ref="char:EOLhyphen"/>my, who did shew himselfe in like posture, but by reason of the straite passage, nothing could be done on either side, besides some skirmishing with the <hi>Hungarians,</hi> and <hi>Croatians;</hi> Whereupon his Excellency to make place for the Enemy to come over the passage, retired further backward with his Army, which the Enemy percei<g ref="char:EOLhyphen"/>ving, followed on, and thus that day was spent. In the night time we had severall blind Allarmes given from the Enemy, whereupon to prevent all danger, our whole Army stood in a good posture un<g ref="char:EOLhyphen"/>till the next morning, which was Sunday the 23. day, when the Enemy shewed as much desire and courage to sight, as we had to sa<g ref="char:EOLhyphen"/>tisfie him therein. Every one (earnestly calling upon God) made himselfe fit and ready to fight with a good resolution. And after both Armies were just met in the very same place where 11. yeares agoe the Battaile of <hi>Leipzigk</hi> was fought (which was very omi<g ref="char:EOLhyphen"/>nous and observable) we set (in the name of God) upon the Ene<g ref="char:EOLhyphen"/>my, and had such a furious and resolute encounter as it was a won<g ref="char:EOLhyphen"/>der to behold how that neither party would yeeld to the other, un<g ref="char:EOLhyphen"/>till at last the left wing of the Enemy was routed by maine force, and our left wing likewise suffered somewhat, yet was soone reco<g ref="char:EOLhyphen"/>vered and brought to right. In the second encounter it went very well on our side, and altogether as ill on the enemies, so that (after three houres stout and couragious fight) he was compelled <hi>nolens volens</hi> to quit the Field, and to betake himselfe to flight; His left wing was pursued by his Excellency farre on this side <hi>Leipzigk,</hi> but the right wing by Generall <hi>Coningsmarke</hi> with his Troopes almost to <hi>Elinbergh</hi> neare a dayes journey.</p>
+               <p>Whatsoever was overtaken was served according to the course of Warre. The Enemies Army consisted of sixtie squadrons of Horse, besides the <hi>Hungarians</hi> and <hi>Croatians;</hi> and 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brigadoes of Foote, besides some Regiments joyned to them in their march by the Duke of <hi>Saxony.</hi> The Infantry came wholly into our power, so that few escaped, yet the greater part upon demanding quarter were saved a<g ref="char:EOLhyphen"/>live, by whom the losse of ours was supplyed. Of chiefe Comman<g ref="char:EOLhyphen"/>ders two Generals of the Artillery were taken prisoners, namely, Count <hi>Soyes,</hi> and <hi>Fernament,</hi> besides divers other Collonels and great
+<pb n="8" facs="tcp:61547:5"/>Commanders, of whom there perished likewise many in the battaile, whereof as also of the prisoners we have yet no certaine Liste.</p>
+               <p>On our side many braue Cavalleers were slaine, among whom Generall <hi>Lillihooke,</hi> Generall Major <hi>Slong, Monell Groobe, Clower,</hi> and others are much bewayled: Generall <hi>Stalhans</hi> is wounded, but with<g ref="char:EOLhyphen"/>out danger. He got the Enemies Artillery consisting of Fortie goodly brasse peeces, with all the appurtenances together with all the Colours of the infantrie and many Standards, as also all the baggage, whereby the paines of that day were all requited. To sum up all, our Saviour did graciously assist us according to our word, which was, <hi>Helpe Lord Jesus,</hi> whom we cannot sufficiently praise for this great Victory. The Enemies word was, <hi>Sancta Maria.</hi> His Excel<g ref="char:EOLhyphen"/>lency had his horse shot under him by a Cannon in the very begin<g ref="char:EOLhyphen"/>ning, and by the same bullet it is thought that Collonel <hi>Groobe</hi> was slaine.</p>
+               <p>Now we are for <hi>Leipzigk,</hi> which I hope will soone be ours.</p>
+               <list>
+                  <item>8000. Taken Prisoners.</item>
+                  <item>6000. Waggons taken.</item>
+                  <item>45. Peeces of Brasse Ordnances, besides Iron peeces.</item>
+                  <item>120. Ensignes taken.</item>
+                  <item>70. Cornets and odde taken.</item>
+                  <item>5000. Slaine upon the place on both sides.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61547:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
